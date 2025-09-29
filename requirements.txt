@@ -1,0 +1,14 @@
+# Project A: UI portion of project: FlexPort Customer Portal UI 
+
+
+# Starting with test script 
+
+# Actions to include: 
+    # -Navigation 
+    # -Verify page has loaded 
+    # -Button clicks 
+    # -Radio buttons 
+    # -Text input 
+    # -Dropdown selection/Calendar 
+    # -Assert element isVisible 
+    # -Assert values 
