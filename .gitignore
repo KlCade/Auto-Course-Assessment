@@ -1,0 +1,9 @@
+*.pyc
+*.png
+screenshots/
+reports/
+__pycache__/
+*.pyc
+*.png
+screenshots/
+reports/
